@@ -1,0 +1,224 @@
+<ObjectNode>
+    <spectacles>
+        <title>Малыш и Карлсон</title>
+        <duration>60</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2702_0a69e3ae778a2cbd71f62ffa3fc781.jpg</imageURL>
+        <dates>[2024-12-15T11:00, 2024-12-22T11:00, 2024-12-25T10:30, 2024-12-25T14:00, 2024-12-26T10:30,
+            2024-12-26T14:00, 2024-12-29T11:00, 2024-12-29T17:00, 2025-01-05T11:00, 2025-01-19T11:00]
+        </dates>
+    </spectacles>
+    <spectacles>
+        <title>Хлынов. Сага о городе и его жителях</title>
+        <duration>3</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2667_ad860d2043a24eaa301e0cc107e20e.jpg</imageURL>
+        <dates>[2024-12-27T18:30, 2024-12-28T17:00, 2025-01-07T17:00, 2025-01-24T18:30]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Уроки французского</title>
+        <duration>70</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2632_2b542cb5465a1e2498bd7f75cdde43.jpg</imageURL>
+        <dates>[2024-12-07T11:00, 2024-12-08T11:00, 2024-12-10T18:30, 2024-12-11T18:30, 2025-01-22T15:00,
+            2025-01-22T18:30]
+        </dates>
+    </spectacles>
+    <spectacles>
+        <title>Монарх</title>
+        <duration>170</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2600_79309faa0408b857dd5ba4868dc1d0.jpg</imageURL>
+        <dates>[2024-11-30T17:00, 2024-12-18T18:30, 2025-01-06T18:00, 2025-01-18T17:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Женщины Сергея Есенина, или Любовь хулигана</title>
+        <duration>100</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2721_9396061914ae3f393c37e8e55a0249.jpg</imageURL>
+        <dates>[2025-01-16T15:00, 2025-01-16T18:30]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Всё можно… или как прожить без взрослых</title>
+        <duration>60</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2623_d96a118240a31ab8248f4b7c737694.jpg</imageURL>
+        <dates>[2024-12-01T11:00, 2025-01-26T11:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Шукшин. Рассказы</title>
+        <duration>140</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2652_d0c3cfa4bccdcef25db53300b68b4d.jpg</imageURL>
+        <dates>[2024-12-19T18:30, 2025-01-23T18:30]</dates>
+    </spectacles>
+    <spectacles>
+        <title>На всякого мудреца довольно простоты</title>
+        <duration>110</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2676_9e0fd2196c0df84538a219f91ed02f.jpg</imageURL>
+        <dates>[2025-01-02T18:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Старый Новый год</title>
+        <duration>2</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2733_e9255ab66994c0ed6ede0a2215f7f0.jpg</imageURL>
+        <dates>[2025-01-13T19:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Почему каждый раз</title>
+        <duration>2</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2692_dfbf5a9a0e8c434d8ee6d71b546288.jpg</imageURL>
+        <dates>[2025-01-25T17:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Всё можно... или как прожить без взрослых (показ в г. Мураши)</title>
+        <duration>60</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2697_056c66e0b59a49e00489edc1b9ef3d.jpg</imageURL>
+        <dates>[2024-11-28T10:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Тайна замка Рейвенскрофт</title>
+        <duration>140</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2675_de0257143d2e24d5f028ae30921340.jpg</imageURL>
+        <dates>[2025-01-04T18:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Двое на качелях</title>
+        <duration>160</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2643_56e21cd2dc54d6ebb7f30d38b466ee.jpg</imageURL>
+        <dates>[2024-11-28T19:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Мэри Поппинс</title>
+        <duration>80</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2685_adc01e997053147eaeb8cfe22f0267.jpg</imageURL>
+        <dates>[2025-01-04T11:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Не доверяй мужчинам!</title>
+        <duration>140</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2714_063eb6cb7784bc851084b477ab5e7e.jpg</imageURL>
+        <dates>[2025-01-19T17:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Здравствуйте, я ваша тётя!</title>
+        <duration>2</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2624_8092ad32450c184d520f608f3f54fc.jpg</imageURL>
+        <dates>[2024-12-01T17:00, 2025-01-03T18:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Не доверяй мужчинам! (спецпоказ для пенсионеров)</title>
+        <duration>140</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2724_6cd6338136cb5d851ba69cd066eb02.jpg</imageURL>
+        <dates>[2024-12-17T11:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Дядя Ваня</title>
+        <duration>135</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2653_ab479175291c161cf33ffccb1b5010.jpg</imageURL>
+        <dates>[2024-12-20T18:30, 2025-01-17T18:30]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Вечеринка у кота Леопольда</title>
+        <duration>50</duration>
+        <ageLimit>0</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2654_49bc2aaff70e57c20830d817b7391a.jpg</imageURL>
+        <dates>[2024-12-21T11:00, 2024-12-28T11:00, 2025-01-02T14:00, 2025-01-03T14:00, 2025-01-04T14:00,
+            2025-01-05T14:00, 2025-01-06T14:00, 2025-01-08T14:00]
+        </dates>
+    </spectacles>
+    <spectacles>
+        <title>Драма-тур</title>
+        <duration>75</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2619_6a50462ac6119c7df4343ae8535490.jpg</imageURL>
+        <dates>[2024-11-30T14:00, 2024-12-01T14:00, 2024-12-14T14:00, 2024-12-15T14:00, 2024-12-22T14:00,
+            2024-12-28T14:00, 2024-12-29T14:00]
+        </dates>
+    </spectacles>
+    <spectacles>
+        <title>Эх, женюсь на молоденькой!</title>
+        <duration>150</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2679_08f1e275e6783f24ae347442d2087e.jpg</imageURL>
+        <dates>[2024-12-22T17:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Судьба человека (показ в г. Мураши)</title>
+        <duration>70</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2695_6047b9167c3718642646d9dfa85dbe.jpg</imageURL>
+        <dates>[2024-11-28T14:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Первая любовь</title>
+        <duration>75</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2639_08cc8aafe78756e722313741b8e98c.jpg</imageURL>
+        <dates>[2024-12-12T18:30, 2024-12-13T18:30, 2024-12-17T18:30, 2025-01-25T11:00, 2025-01-25T15:00,
+            2025-01-28T15:00, 2025-01-28T18:30]
+        </dates>
+    </spectacles>
+    <spectacles>
+        <title>Осенняя кадриль</title>
+        <duration>2</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2678_54b6ffc89c6158a1d6f3299deb36be.jpg</imageURL>
+        <dates>[2025-01-08T18:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Белые ночи</title>
+        <duration>70</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2626_3e1b693e5ffa3b9d192a9e4cee1434.jpg</imageURL>
+        <dates>[2024-12-05T18:30, 2024-12-06T18:30]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Конёк-горбунок</title>
+        <duration>75</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2684_c6443152447decddf401da770774aa.jpg</imageURL>
+        <dates>[2025-01-03T11:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Балет «Щелкунчик»</title>
+        <duration>140</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2688_6e4c8b7e4993f1f0a02a3a0e78b535.jpg</imageURL>
+        <dates>[2024-12-07T17:00, 2024-12-08T11:00, 2024-12-08T15:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>Волшебник Изумрудного города</title>
+        <duration>80</duration>
+        <ageLimit>6</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2680_a359209e469eaea78677fd90179eb3.jpg</imageURL>
+        <dates>[2024-12-24T10:30, 2024-12-24T14:00, 2024-12-31T10:30, 2024-12-31T14:00, 2025-01-02T11:00,
+            2025-01-08T11:00]
+        </dates>
+    </spectacles>
+    <spectacles>
+        <title>Пиковая дама</title>
+        <duration>150</duration>
+        <ageLimit>16</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2661_17bda48b7018f22ccda154011bf752.jpg</imageURL>
+        <dates>[2024-12-15T18:00, 2024-12-30T18:00, 2025-01-05T18:00, 2025-01-26T18:00]</dates>
+    </spectacles>
+    <spectacles>
+        <title>#Я_Раскольников</title>
+        <duration>80</duration>
+        <ageLimit>12</ageLimit>
+        <imageURL>https://kirovdramteatr.ru//media/afisha/2625_6a31724a17a48c87b521147e789e36.jpg</imageURL>
+        <dates>[2024-12-03T18:30, 2024-12-04T18:30, 2024-12-21T17:00, 2025-01-21T15:00, 2025-01-21T18:30]</dates>
+    </spectacles>
+</ObjectNode>
